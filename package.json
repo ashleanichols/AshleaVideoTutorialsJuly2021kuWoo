@@ -1,0 +1,15 @@
+{
+    "name": "exam-19-april-2019",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "modules": "^0.4.0",
+        "node": "^16.4.0"
+    }
+}
